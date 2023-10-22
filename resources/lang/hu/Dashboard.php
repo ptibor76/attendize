@@ -10,7 +10,7 @@ return array (
     'create_tickets' => 'Jegyek létrehozása',
     'edit_event_page_design' => 'Esemény oldal szerkesztése',
     'edit_organiser_fees' => 'Szervezői díjak szerkesztése',
-    'event_page_visits' => 'Esemény oldal megtekintések',
+    'event_page_visits' => 'Oldal megtekintés',
     'event_url' => 'Esemény URL',
     'event_views' => 'Esemény megtekintések',
     'generate_affiliate_link' => 'Generate Affiliate link',
@@ -20,7 +20,7 @@ return array (
     'sales_volume' => 'Eladási mennyiség',
     'share_event' => 'Esemény megosztás',
     'this_event_is_on_now' => 'This event is on now',
-    'ticket_sales_volume' => 'Ticket Sales Volume',
-    'tickets_sold' => 'Eladott jegyek',
+    'ticket_sales_volume' => 'Bevétel',
+    'tickets_sold' => 'Eladott jegy',
     'website_embed_code' => 'Website Embed Code',
 );

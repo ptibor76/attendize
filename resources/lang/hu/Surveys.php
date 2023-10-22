@@ -3,16 +3,16 @@
 return array (
   //============================== New strings to translate ==============================//
   // Defined in file C:\\wamp\\www\\attendize\\resources\\views\\ManageEvent\\Surveys.blade.php
-  'question_delete' => 'Question Delete',
+  'question_delete' => 'Kérdés törlése',
   //==================================== Translations ====================================//
-  'add_question' => 'Add Question',
-  'answers' => 'Answers',
-  'event_surveys' => 'Event Surveys',
+  'add_question' => 'Kérdés hozzáadása',
+  'answers' => 'Válaszok',
+  'event_surveys' => 'Esemény kérdések',
   'export_answers' => 'Export Answers',
-  'num_responses' => '# Responses',
-  'question_delete_title' => 'All answers will also be deleted. If you want to keep attendee\'s answers you should deactivate the question instead.',
-  'question_title' => 'Question Title',
-  'required' => 'Required',
-  'status' => 'Status',
-  'tickets_list' => 'Tickets: :list',
+  'num_responses' => '# válaszok',
+  'question_delete_title' => 'Minden válasz törlődni fog ezzel. Ha meg szeretnéd tartani a résztvevők válaszait, akkor inkább érvénytelenítsd.',
+  'question_title' => 'Kérdés címe',
+  'required' => 'Kötelező',
+  'status' => 'Állapot',
+  'tickets_list' => 'Jegyek: :list',
 );

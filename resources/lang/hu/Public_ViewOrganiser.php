@@ -6,12 +6,12 @@
 return array (
   //============================== New strings to translate ==============================//
   // Defined in file C:\\wamp\\www\\attendize\\resources\\views\\Public\\ViewOrganiser\\Partials\\EventListingPanel.blade.php
-  'information' => 'Information',
+  'information' => 'Információk',
   // Defined in file C:\\wamp\\www\\attendize\\resources\\views\\Public\\ViewOrganiser\\Partials\\EventListingPanel.blade.php
-  'tickets' => 'Tickets',
+  'tickets' => 'Jegyek',
   //==================================== Translations ====================================//
-  'no_events' => 'There are no :panel_title to display.',
-  'organiser_dashboard' => 'Organiser Dashboard',
-  'past_events' => 'Past events',
-  'upcoming_events' => 'Upcoming events',
+  'no_events' => 'Nincs megjelenítendő :panel_title.',
+  'organiser_dashboard' => 'Szervezői vezérlőpult',
+  'past_events' => 'Korábbi események',
+  'upcoming_events' => 'Közelgő események',
 );
